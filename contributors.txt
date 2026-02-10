@@ -1,10 +1,12 @@
 This file holds the names of everyone who has completed Propulsive Landers' git tutorial:
 
 Instructions: 
-1) Add your name to the text file with your role in the Propulsive Landers' organization
+1) Add your name to the text file with your role in the Propulsive Landers'
+organization as well as your email.
+
 2) Add a new line above and below your name
 
 
-GNC Vice Lead: Favour Adekola
+GNC Vice Lead: Favour Adekola, favouradekola22@gmail.com
 Avionics: Suhaila Rashid, I like ducks
-Joseph Farkas - I love traveling
+
