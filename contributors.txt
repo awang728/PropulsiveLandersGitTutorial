@@ -11,3 +11,6 @@ GNC Vice Lead: Favour Adekola, favouradekola22@gmail.com
 Avionics: Suhaila Rashid, I like ducks
 
 GNC member: Arthur Wang, arthurwang202@gmail.com
+
+GNC FirstName LastName, firstnamelastname@gmail.com
+
